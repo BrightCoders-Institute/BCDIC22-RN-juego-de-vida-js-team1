@@ -1,0 +1,2 @@
+# BCDIC22-RN-juego-de-vida-js-team1
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be8bcaafd2d947089db59fe4590364c2)](https://app.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-juego-de-vida-js-team1?utm_source=github.com&utm_medium=referral&utm_content=BrightCoders-Institute/BCDIC22-RN-juego-de-vida-js-team1&utm_campaign=Badge_Grade_Settings)
